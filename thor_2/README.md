@@ -1,1 +1,1 @@
-Processing program to recreate the thor poster
+Processing program to recreate a thor poster, shown in original_poster.jpg
